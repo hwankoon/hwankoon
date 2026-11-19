@@ -1,7 +1,7 @@
 <a href="https://hwwwn.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./head_dark.png">
-    <img src="./head_light.png" alt="김성환, Product Manager / Product Owner. 문제를 정의하고, AI로 빠르게 만들고, 데이터로 키웁니다." width="100%">
+    <img src="./head_light.png" alt="김성환, Product Manager / Product Owner. 문제를 정의하고, AI로 빠르게 만들고, 데이터로 성장합니다." width="100%">
   </picture>
 </a>
 
